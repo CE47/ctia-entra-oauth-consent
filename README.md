@@ -143,6 +143,8 @@ file and let `cut`/`awk` parse them rather than eyeballing.
   `grep/cut/sort/uniq/awk` so nobody is blocked by builds or packages.
 - The scenario is entirely synthetic; treat it as a training sandbox.
 
-Good luck, and trust the data.
+---
 
-*— The Bloomline Security 101 team*
+## Disclaimer & license
+
+Synthetic data for education. All trademarks belong to their owners.
